@@ -1,0 +1,2 @@
+# PC-or-Mac
+We have been tasked by Apple to perform a research as to try to understand the consumer buying behavior that lies behind deciding which computer brand to buy. For this purpose, we have approached the question from the perspective of the Big Five personality traits as well as the Hult DNA. A survey was created with of question the combines personality traits from both perspectives and was applied to a sample of hult Students. We have used the results from said survey to run analysis, and form insights that will help apple improve their marketing tactics.
